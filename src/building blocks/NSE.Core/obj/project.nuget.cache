@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ht+bKZzLSmFg+eivKPQ2uELl0L1/ppL2zO+y+A4dF8f6D2ox7fhXB1aZvQMcNI1Gzbu5Odjn+qRXPAMn2gzL0g==",
+  "success": true,
+  "projectFilePath": "/Users/luizoliveira/Documents/GitHub/NerdStoreEnterprise/src/building blocks/NSE.Core/NSE.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/luizoliveira/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512",
+    "/Users/luizoliveira/.nuget/packages/mediatr/8.0.1/mediatr.8.0.1.nupkg.sha512",
+    "/Users/luizoliveira/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.4/microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "/Users/luizoliveira/.nuget/packages/microsoft.extensions.primitives/3.1.4/microsoft.extensions.primitives.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
